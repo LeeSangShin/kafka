@@ -1,0 +1,8 @@
+[2019-04-02 17:16:36,844] DEBUG [Controller id=1] Resigning (kafka.controller.KafkaController)
+[2019-04-02 17:16:36,845] DEBUG [Controller id=1] Unregister BrokerModifications handler for Set() (kafka.controller.KafkaController)
+[2019-04-02 17:16:36,845] INFO [PartitionStateMachine controllerId=1] Stopped partition state machine (kafka.controller.PartitionStateMachine)
+[2019-04-02 17:16:36,845] INFO [ReplicaStateMachine controllerId=1] Stopped replica state machine (kafka.controller.ReplicaStateMachine)
+[2019-04-02 17:16:36,845] INFO [Controller id=1] Resigned (kafka.controller.KafkaController)
+[2019-04-02 17:16:37,512] DEBUG [Controller id=1] Broker 2 has been elected as the controller, so stopping the election process. (kafka.controller.KafkaController)
+[2019-04-02 17:32:16,163] INFO [ControllerEventThread controllerId=1] Starting (kafka.controller.ControllerEventManager$ControllerEventThread)
+[2019-04-02 17:32:16,235] DEBUG [Controller id=1] Broker 2 has been elected as the controller, so stopping the election process. (kafka.controller.KafkaController)
